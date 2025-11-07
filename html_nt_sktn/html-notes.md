@@ -215,22 +215,6 @@ Accessibility ensures websites can be used by everyone.
 
 ---
 
-## 14. HTML5 APIs (Introduction)
-
-| API | Description |
-|-----|--------------|
-| **Geolocation API** | Detects user’s location |
-| **Local Storage API** | Saves data locally |
-| **Drag & Drop API** | Enables drag-and-drop |
-
-Example:
-```html
-<button id="getLocation">Get My Location</button>
-<p id="output"></p>
-```
-
----
-
 ## 15. Other Useful Tags
 
 ```html
